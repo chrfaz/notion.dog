@@ -1,1 +1,10 @@
-
+{  
+    "SLUG_TO_PAGE": {
+        "":"37dbacede0e543d89557d983c724c708"
+    },
+  
+    "PAGE_TITLE" : "Eggnog", 
+    "PAGE_DESCRIPTION" : "3D Artist",
+    
+    "GOOGLE_FONT" : "Nunito",
+    "CUSTOM_SCRIPT" : "<script></script>"
